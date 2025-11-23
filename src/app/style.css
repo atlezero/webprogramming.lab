@@ -1,0 +1,8 @@
+body{
+  background-color: antiquewhite;
+}
+
+.number{
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(226, 16, 51);
+}
